@@ -1,0 +1,17 @@
+body {
+  background-color:#e6f7ff;
+}
+
+#myCanvas{
+	background-color: #cce6ff;
+	border:3px solid #333333;
+}
+
+h1{
+	font-family: 'Cantata One', serif;
+
+}
+
+#discl{
+	font-family: 'Kaushan Script', cursive;
+}
